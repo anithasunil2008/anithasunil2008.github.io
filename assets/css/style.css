@@ -1,0 +1,260 @@
+body{
+	background-image:  url("../images/regal.png");
+	background-repeat: repeat;
+	font-family: Arial;
+
+}
+header{
+    
+	background-color:  #ffffff;
+	border: solid;
+	border-color: #cccccc;
+	height: 80px;
+	margin-left: 0px;
+	font-family: 'Georgia';
+	color: #4aaaa5;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+
+}
+
+#name{
+	display: inline;
+	float: left;
+	border: hidden;
+	background-color: #4aaaa5;
+	padding:20px;
+	color:white;
+	width: 150px;
+	height: 40px;
+	text-align: center;
+	font-family: 'Georgia';
+	margin-top: 0px;
+	margin-left: 80px;
+	margin-right: 100px;
+}
+
+#anipic{
+	float:left;
+	margin-right: 20px;
+	margin-top: 35px;
+}
+
+#about{
+	color: #4aaaa5;
+	font-family: 'Georgia'
+}
+
+#connect{
+	color: #4aaaa5;
+	font-family: 'Georgia'
+}
+
+#index{
+    position: relative;
+    right: 420px;
+	display: inline;
+	float: left;
+	border: solid;
+	border-color: #cccccc;
+	width: 650px;
+	background-color: white;
+	color: #777777;
+	height: 500px;
+	padding: 10px 30px 20px 30px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	margin-left: 130px;
+	
+}
+
+#contact{
+	position: relative;
+    right: 420px;
+	display: inline;
+	float: left;
+	border: solid;
+	border-color: #cccccc;
+	width: 650px;
+	margin-left: 130px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	background-color: white;
+	color: #777777;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 500px;
+	background-color: white;
+	
+}
+
+#portfolio{
+	position: relative;
+    right: 420px;
+	display: inline;
+	float: left;
+	border: solid;
+	border-color: #cccccc;
+	color:  #4aaaa5;
+	width: 650px;
+	margin-left: 130px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	padding: 20px 30px 20px 30px;
+	background-color: white;
+	height: 680px;
+}
+
+#absolute1{
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+	border: hidden; 
+	width:300px;
+	height: 40px;
+	position: relative;
+	top:-20px;
+	padding-top: 20px;
+	font-size: 25px;
+
+}
+#absolute2{
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+	border: hidden; 
+	width:300px;
+	height: 40px;
+	position: relative;
+	top:-43px;
+	padding-top: 20px;
+	font-size: 25px;
+}
+#absolute3{
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+	border: hidden; 
+	width:300px;
+	height: 40px;
+	position: relative;
+	top:-33px;
+	padding-top: 20px;
+	font-size: 25px;
+}
+#absolute4{
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+	border: hidden; 
+	width:300px;
+	height: 40px;
+	position: relative;
+	top:-33px;
+	padding-top: 20px;
+	font-size: 25px;
+}
+#div2{
+    position: relative;
+    top:-60px;
+	float: right;
+	border: solid;
+	border-color: #cccccc;
+	padding: 20px 10px 30px 10px;
+	width: 270px;
+	height: 150px;
+	background-color: white;
+	color:  #4aaaa5;
+	text-align: center;
+	margin-right: 170px;
+	margin-top: -505px;
+}
+
+#button{
+	border: hidden;
+	color: white;
+	background-color:#4aaaa5;
+	padding: 10px;
+	width:150px; 
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.input{
+	color: #777777;
+    width: 250px;
+    height: 30px;
+}
+
+.hor2{
+	float: left;
+	position: relative;
+	left: 550px;
+	display: inline;
+	color:  #cccccc;
+	font-family: Arial;
+	font-size: 20px;
+	padding-right: 170px;
+	padding-top: 10px;
+}
+
+#hor3{
+	border-top: 2px solid #cccccc;
+}
+
+#hor4{
+	 border-top: 2px solid #cccccc;
+	 margin-right: 30px;
+	 margin-left: 30px;
+}
+
+#icons{
+	display: inline;
+}
+
+#imag1{
+	display: inline;
+	float: left;
+}
+
+#img2{
+	float: right;
+	display: inline;
+}
+
+#div3{
+	width: 100%;
+	clear: both;
+	height: 10px;
+	background-color:  #4aaaa5;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+.img{
+	display: inline;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px; 
+}
+
+#para{
+	padding-top: 10px;
+	line-height: 40px;
+}
+
+footer{
+	clear: both;
+	overflow: auto;
+	background-color: #666666;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color:  #cccccc;
+	font-size: 12px;
+}
+
+
