@@ -173,6 +173,22 @@ header{
 	margin-top: -505px;
 }
 
+#divPor{
+	position: relative;
+    top:-250px;
+	float: right;
+	border: solid;
+	border-color: #cccccc;
+	padding: 20px 10px 30px 10px;
+	width: 270px;
+	height: 150px;
+	background-color: white;
+	color:  #4aaaa5;
+	text-align: center;
+	margin-right: 170px;
+	margin-top: -505px;
+}
+
 #button{
 	border: hidden;
 	color: white;
@@ -246,6 +262,9 @@ header{
 	line-height: 40px;
 }
 
+.link{
+	color: #777777;
+}
 footer{
 	clear: both;
 	overflow: auto;
