@@ -265,6 +265,11 @@ header{
 .link{
 	color: #777777;
 }
+
+a:hover{
+	color: blue;
+}
+
 footer{
 	clear: both;
 	overflow: auto;
